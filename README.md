@@ -16,6 +16,7 @@ SQL project: Using Postre SQL
    
 HR Analytics Dashboard: Created interactive Power BI dashboards.
 https://app.powerbi.com/view?r=eyJrIjoiODY3YzM5Y2EtY2RjNC00OGJlLTljNmEtNzdjYWViNTU3NmNmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 📜 Certifications: See my certifications, Microsoft Certified Data Analyst - PL 300
 💼 Experience: Discover my professional journey in roles like Senior Counsellor at LCI International Group.
 Get in Touch
